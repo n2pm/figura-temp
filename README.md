@@ -1,3 +1,9 @@
+## This is a fork of the most recent repository we could find.
+
+The situation is that the old owner is a pedophile and they deleted all their repositories.
+
+[Docs about the situation](https://docs.google.com/document/d/1pfy17co5ngaHMVksFrAB6FTeJgeh1EKsGmDLzo1qgIE/edit)
+
 # Figura
 
 ## A fully clientside Minecraft Java mod that allows you to customize your player model!
